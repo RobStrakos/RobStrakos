@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Robert
 
-<!--
-**RobStrakos/RobStrakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SysAdmin | IT Specialist | Aspiring Web Developer**
 
-Here are some ideas to get you started:
+I am an IT Specialist and Systems Administrator based in Ostrava, currently expanding my expertise into Web Development, JavaScript and ServiceNow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 **Currently working on:** Systems & Infrastructure Support, Personal Web Projects.
+- 🌱 **Currently learning:** JavaScript (ES6+), Modern Web Development, Git workflows, ITIL 6 and ServiceNow.
+- 💼 **Current Role:** IT Specialist at OZO Ostrava s.r.o.
+- 🎓 **Background:** Degree in IT Pedagogy & Computer Science Education.
+  
+---
+
+### 🧠 Soft Skills & Core Strengths
+- **Communication & Teaching:** IT education, public speaking, staff training, complex-to-simple technical translation, and mentoring.
+- **Analytical & Business Mindset:** Financial awareness, basic business logic, problem-solving, and process optimization.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Device & Enterprise Management:** MDM Administration, Apple Ecosystem (macOS, iOS), IT Service Management (ITIL Framework, ITSCM, K2 ERP System)
+- **OS & Admin:** Linux, Windows Server, SysAdmin Tools
+- **Web & Code:** JavaScript, HTML5, CSS3, Git & GitHub
+- 
+---
+
+### 📫 Connect with me
+- 🌐 Website: [robertstrakos.cz](https://robertstrakos.cz/#uvod)
+- 💼 LinkedIn: [Robert Strakoš](www.linkedin.com/in/robertstrakoš)
