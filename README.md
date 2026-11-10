@@ -24,7 +24,7 @@ I am an IT Specialist and Systems Administrator based in Ostrava, currently expa
 - **Device & Enterprise Management:** MDM Administration, Apple Ecosystem (macOS, iOS), IT Service Management (ITIL Framework, ITSCM, K2 ERP System)
 - **OS & Admin:** Linux, Windows Server, SysAdmin Tools
 - **Web & Code:** JavaScript, HTML5, CSS3, Git & GitHub
-- 
+
 ---
 
 ### 📫 Connect with me
