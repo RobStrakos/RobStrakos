@@ -29,4 +29,4 @@ I am an IT Specialist and Systems Administrator based in Ostrava, currently expa
 
 ### 📫 Connect with me
 - 🌐 Website: [robertstrakos.cz](https://robertstrakos.cz/#uvod)
-- 💼 LinkedIn: [Robert Strakoš](www.linkedin.com/in/robertstrakoš)
+- 💼 LinkedIn: [Robert Strakoš](https://linkedin.com/in/robertstrakoš)
