@@ -8,7 +8,7 @@ I am an IT Specialist and Systems Administrator based in Ostrava, currently expa
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Systems & Infrastructure Support, Personal Web Projects.
-- 🌱 **Currently learning:** JavaScript (ES6+), Modern Web Development, Git workflows, ITIL 6 and ServiceNow.
+- 🌱 **Currently learning:** JavaScript (ES6+), Modern Web Development, Git workflows, ITIL 5 and ServiceNow.
 - 💼 **Current Role:** IT Specialist at OZO Ostrava s.r.o.
 - 🎓 **Background:** Degree in IT Pedagogy & Computer Science Education.
   
